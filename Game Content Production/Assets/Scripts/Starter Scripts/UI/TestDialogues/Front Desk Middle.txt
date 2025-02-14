@@ -1,0 +1,4 @@
+[NAME=Worker][SPEAKERSPRITE=Worker]Welcome to our lovely casino! Sin and sodom to your hearts desire!
+[NAME=Worker][SPEAKERSPRITE=Worker]Feel free to enjoy our various games and chat with our patrons! You never know what you might learn.
+[NAME=Randy][SPEAKERSPRITE=Randy]Hello yes, what would you recommend as the fastest way to acquire approximately two billion dollars.
+[NAME=Worker][SPEAKERSPRITE=Worker]Ahh... I'm sure some of the other patrons will be able to tell you about their favorite machines or tables.

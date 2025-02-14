@@ -1,0 +1,3 @@
+[NAME=Patron][SPEAKERSPRITE=Patron]Man, are you shitting me!? This bum slot machine just ate my last few chips! Didn't even let me spin it!
+[NAME=Patron][SPEAKERSPRITE=Patron]This is the second machine in a row... 
+[NAME=Patron][SPEAKERSPRITE=Patron]has to be sign from something greater.

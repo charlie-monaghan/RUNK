@@ -1,0 +1,2 @@
+[NAME=Patron][SPEAKERSPRITE=Patron]Man, this place sucks. The walls are crumbling and and the drinks don't even get you drunk!
+[NAME=Patron][SPEAKERSPRITE=Patron]I heard some freaky chanting from behind one of the broken walls too, don't know what they got going on back there.

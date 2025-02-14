@@ -1,0 +1,7 @@
+[NAME=Worker][SPEAKERSPRITE=Worker]Get a load of these boneheads! They've been stockpiling these chips for a while now, thinking they can summon "The One True Chip." 
+[NAME=Worker][SPEAKERSPRITE=Worker]What are they even talking about? There's simply no such thing as a chip "blessed by God." 
+[NAME=Worker][SPEAKERSPRITE=Worker]I'm sure God would want NOTHING to do with this hole in the ground.
+[NAME=Randy][SPEAKERSPRITE=Randy]What do you mean "boneheads?"
+[NAME=Randy][SPEAKERSPRITE=Randy]These two gentlmen seem perfectly well adjusted.
+[NAME=Worker][SPEAKERSPRITE=Worker]Oh great, don't tell me YOU'RE here to waste more chips in that pile are you?
+[NAME=Randy][SPEAKERSPRITE=Randy]Perhaps.

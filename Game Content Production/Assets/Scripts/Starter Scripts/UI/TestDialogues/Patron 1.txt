@@ -1,0 +1,3 @@
+[NAME=Patron][SPEAKERSPRITE=Patron]I heard there's a really big and really expensive chip somewhere in this casino!
+[NAME=Patron][SPEAKERSPRITE=Patron]I don't know who'd want just one chip though, I already have a bunch!
+[NAME=Patron][SPEAKERSPRITE=Patron]Gambling rocks, man.

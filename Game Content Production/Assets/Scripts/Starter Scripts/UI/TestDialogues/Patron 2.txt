@@ -1,0 +1,3 @@
+[NAME=Patron][SPEAKERSPRITE=Patron]I remember hearing someone whispering that "Only those pure of heart, free of sin can claim the one true chip."
+[NAME=Patron][SPEAKERSPRITE=Patron]What the hell does that even mean? We're in a casino, the damn slogan is Sin and Sodom to your hearts desire!
+[NAME=Patron][SPEAKERSPRITE=Patron]What a bunch of hoo ha...

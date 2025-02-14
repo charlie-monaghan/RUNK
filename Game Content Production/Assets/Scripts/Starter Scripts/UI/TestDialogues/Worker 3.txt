@@ -1,0 +1,2 @@
+[NAME=Worker][SPEAKERSPRITE=Worker]Had some luck with any big wins tonight?
+[NAME=Worker][SPEAKERSPRITE=Worker]Always remember, 90% of gamblers quit just before they hit the jackpot!

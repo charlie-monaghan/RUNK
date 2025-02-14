@@ -1,0 +1,3 @@
+[NAME=Patron][SPEAKERSPRITE=Patron]Dude you should have seen it HAH!
+[NAME=Patron][SPEAKERSPRITE=Patron]Some guy off his rocker went and knocked on those crappy walls three times and fell right through it!
+[NAME=Patron][SPEAKERSPRITE=Patron]HA HA HA HAAAAAH!!

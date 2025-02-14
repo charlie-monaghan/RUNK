@@ -1,0 +1,3 @@
+[NAME=Randy][SPEAKERSPRITE=Randy]Thats a lot of chips you got there.
+[NAME=Patron][SPEAKERSPRITE=Patron]... all in the name of god... we do this for holy salvation... 
+[NAME=Randy][SPEAKERSPRITE=Randy](Now this is a guy with some sense)

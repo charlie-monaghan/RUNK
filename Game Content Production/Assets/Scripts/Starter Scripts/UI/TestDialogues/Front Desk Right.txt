@@ -1,0 +1,6 @@
+[NAME=Worker][SPEAKERSPRITE=Worker]Apologies for the mess of chips on the floor!
+[NAME=Worker][SPEAKERSPRITE=Worker]Our janitorial team went on strike last month.
+[NAME=Worker][SPEAKERSPRITE=Worker]If you find any spare chips, please bring them here for drink vouchers in return!
+[NAME=Randy][SPEAKERSPRITE=Randy]I think I will keep them for myself instead.
+[NAME=Worker][SPEAKERSPRITE=Worker]...
+[NAME=Worker][SPEAKERSPRITE=Worker]Alrighty.

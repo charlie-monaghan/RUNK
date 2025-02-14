@@ -1,0 +1,5 @@
+[NAME=Worker][SPEAKERSPRITE=Worker]Be sure to stay on our guard friends' good side! They've been known to take peoples' chips at times.
+[NAME=Randy][SPEAKERSPRITE=Randy]Do they perhaps have access to the national felon registry?
+[NAME=Worker][SPEAKERSPRITE=Worker]?
+[NAME=Worker][SPEAKERSPRITE=Worker]No? I don't think they're required to know that.
+[NAME=Randy][SPEAKERSPRITE=Randy]Good to know.

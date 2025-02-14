@@ -1,0 +1,3 @@
+[NAME=Worker][SPEAKERSPRITE=Worker]Can you believe these losers who actually think they'll make a profit here?
+[NAME=Worker][SPEAKERSPRITE=Worker]I thought everybody knew that casinos are made to bleed them dry.
+[NAME=Worker][SPEAKERSPRITE=Worker]Poor guys, honestly.

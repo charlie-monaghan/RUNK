@@ -1,0 +1,5 @@
+[NAME=Patron][SPEAKERSPRITE=Patron]Oh boy! I just hit it big and I haven't even made it to the main lobby!
+[NAME=Patron][SPEAKERSPRITE=Patron]I don't think there's a single thing that could bring me down!
+[NAME=Randy][SPEAKERSPRITE=Randy]Wow, thats pretty impressive man!
+[NAME=Randy][SPEAKERSPRITE=Randy]Mind if I take a few?
+[NAME=Patron][SPEAKERSPRITE=Patron]Huh?

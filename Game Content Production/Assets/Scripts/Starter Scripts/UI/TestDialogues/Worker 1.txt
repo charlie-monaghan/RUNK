@@ -1,0 +1,1 @@
+[NAME=Worker][SPEAKERSPRITE=Worker]What are you doing back here? No patrons behind the tables.

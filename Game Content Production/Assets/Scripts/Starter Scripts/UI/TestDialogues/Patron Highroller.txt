@@ -1,0 +1,4 @@
+[NAME=Patron][SPEAKERSPRITE=Patron]Oh my god thank you for knocking down that wall!
+[NAME=Patron][SPEAKERSPRITE=Patron]I was just spending some money in the high roller section and next thing I know they have me boarded up!
+[NAME=Patron][SPEAKERSPRITE=Patron]Can you believe the nerve of these damn people? Outta my way man, I'm getting out of here!
+[NAME=Randy][SPEAKERSPRITE=Randy]High roller you say...

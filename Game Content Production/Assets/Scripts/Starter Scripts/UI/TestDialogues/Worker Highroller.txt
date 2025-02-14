@@ -1,0 +1,4 @@
+[NAME=Worker][SPEAKERSPRITE=Worker]Hello and welcome to the high roller section! I hope you've got the dough dish out some big numbers!
+[NAME=Worker][SPEAKERSPRITE=Worker]A shame my patron friend wasn't having as much fun as I was, but I guess being cooped up in here can get a little claustrophobic.
+[NAME=Randy][SPEAKERSPRITE=Randy]But you are okay being trapped in here Amontillado style...?
+[NAME=Worker][SPEAKERSPRITE=Worker]I don't mind it! The smell of the cards, the sounds of the slots. Its really quite stimulating!
